@@ -3,7 +3,7 @@
 -----
 
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/110101428?v=4", width="500", height="500">
+<img src="https://cdn.discordapp.com/attachments/1002625111997812836/1028640961598853200/2.png", width="500", height="500">
 </p>
 
 -----
@@ -30,7 +30,7 @@ I Love Speak 1337
 *  Ideas
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1002625111997812836/1009985584179200060/unknown.png", width="500", height="400">
+<img src="https://cdn.discordapp.com/attachments/1002625111997812836/1028641214846742528/unknown.png", width="500", height="400">
 </p>
   
 -----
