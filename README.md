@@ -30,7 +30,7 @@ I Love Speak 1337
 *  Ideas
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1002625111997812836/1028641214846742528/unknown.png", width="500", height="400">
+<img src="https://cdn.discordapp.com/attachments/1012871085462655057/1047955571271270400/image.png", width="500", height="400">
 </p>
   
 -----
